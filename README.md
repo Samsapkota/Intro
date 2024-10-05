@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Shyam Sapkota - DevOps Engineer
 
-<!--
-**Samsapkota/Samsapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate DevOps Engineer** with 5+ years of experience driving automation, cloud infrastructure, and deployment pipelines in fast-paced environments. I specialize in creating scalable and reliable solutions with a strong focus on cloud platforms, CI/CD, and Infrastructure as Code (IaC).
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 **Cloud Platforms:**
+- **AWS**: EC2, S3, Lambda, RDS, IAM, VPC, CloudFormation, AWS Systems Manager
+- **Azure**: Virtual Machines, AKS, App Service, Azure DevOps
+
+### 🐳 **Containerization & Orchestration:**
+- **Docker**: Building and managing containerized applications
+- **Kubernetes**: Managing container orchestration for high-availability applications
+- **Helm**: Streamlining Kubernetes deployments
+
+### ⚙️ **CI/CD Pipelines:**
+- **Jenkins**: Automated build, test, and deployment processes
+- **GitLab CI/CD**: Implementing CI/CD for fast deployments
+- **GitHub Actions**: Automating workflows for code integration and delivery
+
+### 📜 **Infrastructure as Code (IaC):**
+- **Terraform**: Automating cloud infrastructure provisioning
+- **AWS CloudFormation**: Managing AWS infrastructure with templates
+- **Ansible**: Automating configuration management and application deployment
+
+### 🛠 **Monitoring & Logging:**
+- **Prometheus & Grafana**: Real-time monitoring and alerting
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Centralized logging and visualization
+- **Datadog**: Monitoring performance, security, and operational metrics
+
+### 🔐 **Security & Compliance:**
+- **AWS IAM**: Managing users, roles, and permissions
+- **Secrets Management**: Vault, AWS Secrets Manager
+- **Security Best Practices**: Implementing robust cloud security strategies
+
+## 🛠️ **Professional Experience**
+
+### **DevOps Engineer | PDP Group Inc. by Amynta Group**   
+
+## 📈 **Certifications**
+- **AWS Certified Solutions Architect
